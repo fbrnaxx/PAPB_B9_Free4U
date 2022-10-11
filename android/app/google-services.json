@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450689488051",
+    "project_id": "free4u-8bed6",
+    "storage_bucket": "free4u-8bed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450689488051:android:fde051206e1e0072c38cc6",
+        "android_client_info": {
+          "package_name": "com.example.free4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450689488051-n2ggkcs1fpm2o2uaf9lu431tg0cm4hi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl0ZL1FjQSd102by-JVzmHmafgPmZnzYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450689488051-n2ggkcs1fpm2o2uaf9lu431tg0cm4hi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
